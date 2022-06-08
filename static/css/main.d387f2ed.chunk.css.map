@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,OACE,gBAAA","file":"main.d387f2ed.chunk.css","sourcesContent":["// styles go here\nbutton {\n  margin-right: 5px;\n}\n"]}
